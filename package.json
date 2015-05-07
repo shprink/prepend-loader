@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/shprink/prepend-loader/issues"
   },
-  "homepage": "https://github.com/shprink/prepend-loader"
+  "homepage": "https://github.com/shprink/prepend-loader",
+  "dependencies": {
+    "loader-utils": "^0.2.7"
+  }
 }
